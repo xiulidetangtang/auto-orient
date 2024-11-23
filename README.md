@@ -9,4 +9,5 @@
 # 数据集：
 MSCMR orient：链接: https://pan.baidu.com/s/1cE5i68YUNhXrzUpldTV6ow 提取码: mj6p
 # 引用
-这个项目源自复旦大学ZMIC实验室庄吓海教授。根据论文Recognition and Standardization of Cardiac MRI Orientation via Multi-tasking Learning and Deep Neural Networks完成。该论文原github网址为https://github.com/BWGZK/Orientation-Adjust-Tool。在论文中提到了利用注意力机制的CNN模型。但是出于某些原因原github只完成了基础的cnn模型。我在该模型基础上利用unet作为注意力机制，进一步提示了模型的迁移能力。
+这个项目源自复旦大学ZMIC实验室庄吓海教授。根据论文Recognition and Standardization of Cardiac MRI Orientation via Multi-tasking Learning and Deep Neural Networks完成。该论文原github网址为https://github.com/BWGZK/Orientation-Adjust-Tool。
+在论文中提到了利用注意力机制的CNN模型。但是出于某些原因原github只完成了基础的cnn模型。我在该模型基础上利用unet作为注意力机制，进一步提示了模型的迁移能力。
